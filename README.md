@@ -80,4 +80,4 @@
 
 ###
 
-<img src="https://github.com/AndreyPetkov03/AndreyPetkov/blob/output/github-snake-dark.svg" alt="Snake animation" />
+<img src="https://github.com/AndreyPetkov03/AndreyPetkov03/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
