@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm a Full-Stack Web Developer based in Augsburg, Germany 🇩🇪<br><br>🔭 Currently working as a Full-Stack Web Developer<br><br>📚 Exploring Firebase, Flutter, and AI to expand my skill set<br><br>🎮 In my free time, I enjoy gaming, watching movies, and going for walks<br><br>❤️ Passionate about design and building meaningful projects<br><br>📫 Feel free to reach out: petkovandrey03@gmail.com<br><br>Let’s build something awesome together!</p>
+<p align="left">I'm a Full-Stack Web Developer based in Augsburg, Germany 🇩🇪<br><br>🔭 Currently working as a Full-Stack Web Developer<br><br>📚 Exploring Firebase, Flutter, and AI to expand my skill set<br><br>🎮 In my free time, I enjoy gaming, watching movies, and building stuff<br><br>❤️ Passionate about design and building meaningful projects<br><br>📫 Feel free to reach out: petkovandrey03@gmail.com<br><br>Let’s build something awesome together!</p>
 
 ###
 
