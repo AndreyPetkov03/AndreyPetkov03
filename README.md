@@ -2,7 +2,33 @@
 
 ###
 
-<p align="left">I'm a Full-Stack Web Developer based in Augsburg, Germany 🇩🇪<br><br>🔭 Currently working as a Full-Stack Web Developer<br><br>📚 Exploring Firebase, Flutter, and Game-Development to expand my skill set<br><br>🎮 In my free time, I enjoy gaming, movies, and building stuff<br><br>❤️ Passionate about design and building meaningful projects<br><br>📫 Feel free to reach out: petkovandrey03@gmail.com<br><br>Let’s build something awesome together!</p>
+
+<h2>👨‍💻 About Me</h2>
+
+<p>
+  I’m a <strong>Full-Stack Web Developer</strong> based in Augsburg, Germany 🇩🇪, passionate about building intuitive, scalable, and visually engaging applications.
+</p>
+
+<ul>
+  <li>🔭 <strong>Current Role:</strong> Full-Stack Web Developer, working on end-to-end solutions that bridge frontend design and backend logic.</li>
+  <li>📚 <strong>Learning Journey:</strong> Expanding my skill set with <strong>Firebase, Flutter, and Game Development</strong>, while continuously improving my understanding of modern web technologies and best practices.</li>
+  <li>💡 <strong>Areas of Interest:</strong>
+    <ul>
+      <li>Interactive web applications with great UX/UI</li>
+      <li>Real-time databases and serverless architectures</li>
+      <li>Mobile-first development and cross-platform solutions</li>
+      <li>Game mechanics, design patterns, and gamification</li>
+    </ul>
+  </li>
+  <li>🎮 <strong>Outside of Work:</strong> Gamer at heart 🎮, movie enthusiast 🎬, and hobby builder 🛠️ who loves experimenting with new technologies.</li>
+  <li>❤️ <strong>Core Motivation:</strong> Crafting clean, well-structured applications that not only function seamlessly but also deliver meaningful user experiences.</li>
+  <li>🤝 <strong>Collaboration:</strong> Open to contributing to open-source projects, collaborating on innovative ideas, and working with teams who value creativity and growth.</li>
+  <li>📫 <strong>Contact Me:</strong> <a href="mailto:petkovandrey03@gmail.com">petkovandrey03@gmail.com</a></li>
+</ul>
+
+<p>
+  ⚡ <strong>Personal Goal:</strong> To merge creativity and technology—designing projects that are not just useful, but inspiring.
+</p>
 
 ###
 
