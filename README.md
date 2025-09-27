@@ -1,8 +1,3 @@
-<h3 align="left">👨‍💻  About Me</h3>
-
-###
-
-
 <h2>👨‍💻 About Me</h2>
 
 <p>
