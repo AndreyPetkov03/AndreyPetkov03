@@ -15,7 +15,7 @@
       <li>Game mechanics, design patterns, and gamification</li>
     </ul>
   </li>
-  <li>🎮 <strong>Outside of Work:</strong> Gamer at heart 🎮, movie enthusiast 🎬, and hobby builder 🛠️ who loves experimenting with new technologies.</li>
+  <li>🎮 <strong>Outside of Work:</strong> Gamer at heart, movie enthusiast, and hobby builder who loves experimenting with new technologies.</li>
   <li>❤️ <strong>Core Motivation:</strong> Crafting clean, well-structured applications that not only function seamlessly but also deliver meaningful user experiences.</li>
   <li>🤝 <strong>Collaboration:</strong> Open to contributing to open-source projects, collaborating on innovative ideas, and working with teams who value creativity and growth.</li>
   <li>📫 <strong>Contact Me:</strong> <a href="mailto:petkovandrey03@gmail.com">petkovandrey03@gmail.com</a></li>
