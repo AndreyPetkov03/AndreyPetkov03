@@ -1,6 +1,4 @@
-<h1>👨‍💻 About Me</h1>
-
-<h2>👋 Hi, I'm a Full-Stack Web Developer</h2>
+<h1>👋 Hi, I'm a Full-Stack Web Developer</h1>
 
 <p>
   I'm a <strong>Full-Stack Web Developer based in Augsburg, Germany 🇩🇪</strong>,
