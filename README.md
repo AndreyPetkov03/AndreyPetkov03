@@ -1,29 +1,39 @@
-<h2>👨‍💻 About Me</h2>
+<h1>👨‍💻 About Me</h1>
+
+<h2>👋 Hi, I'm a Full-Stack Web Developer</h2>
 
 <p>
-  I’m a <strong>Full-Stack Web Developer</strong> based in Augsburg, Germany 🇩🇪, passionate about building intuitive, scalable, and visually engaging applications.
+  I'm a <strong>Full-Stack Web Developer based in Augsburg, Germany 🇩🇪</strong>,
+  passionate about building <strong>intuitive, scalable, and visually engaging applications</strong>.
 </p>
 
+<h2>🚀 About Me</h2>
 <ul>
-  <li>🔭 <strong>Current Role:</strong> Full-Stack Web Developer, working on end-to-end solutions that bridge frontend design and backend logic.</li>
-  <li>📚 <strong>Learning Journey:</strong> Expanding my skill set with <strong>Firebase, Flutter, and Game Development</strong>, while continuously improving my understanding of modern web technologies and best practices.</li>
-  <li>💡 <strong>Areas of Interest:</strong>
-    <ul>
-      <li>Interactive web applications with great UX/UI</li>
-      <li>Real-time databases and serverless architectures</li>
-      <li>Mobile-first development and cross-platform solutions</li>
-      <li>Game mechanics, design patterns, and gamification</li>
-    </ul>
-  </li>
-  <li>🎮 <strong>Outside of Work:</strong> Gamer at heart, movie enthusiast, and hobby builder who loves experimenting with new technologies.</li>
-  <li>❤️ <strong>Core Motivation:</strong> Crafting clean, well-structured applications that not only function seamlessly but also deliver meaningful user experiences.</li>
-  <li>🤝 <strong>Collaboration:</strong> Open to contributing to open-source projects, collaborating on innovative ideas, and working with teams who value creativity and growth.</li>
-  <li>📫 <strong>Contact Me:</strong> <a href="mailto:petkovandrey03@gmail.com">petkovandrey03@gmail.com</a></li>
+  <li>💻 Full-Stack Web Developer</li>
+  <li>📍 Augsburg, Germany</li>
+  <li>🎯 Focused on clean architecture, performance, and great UX</li>
 </ul>
 
-<p>
-  ⚡ <strong>Personal Goal:</strong> To merge creativity and technology—designing projects that are not just useful, but inspiring.
-</p>
+<h2>🔍 Interests</h2>
+<ul>
+  <li>🔐 Cryptography</li>
+  <li>🌐 Web3</li>
+  <li>🎮 Building Games</li>
+</ul>
+
+<h2>🛠️ Tech Stack</h2>
+<ul>
+  <li><strong>Frontend:</strong> HTML, CSS, JavaScript, TypeScript, React, Next.js</li>
+  <li><strong>Styling:</strong> Tailwind CSS</li>
+  <li><strong>Backend:</strong> Node.js, APIs, Databases</li>
+  <li><strong>Tools:</strong> Git, REST APIs</li>
+</ul>
+
+<h2>📫 Contact</h2>
+<ul>
+  <li>📧 Email: <a href="mailto:petkovandrey03@gmail.com">petkovandrey03@gmail.com</a></li>
+</ul>
+
 
 ###
 
